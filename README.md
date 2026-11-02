@@ -37,9 +37,6 @@ Para executar os experimentos completos do zero:
     python 01_preparar_dados.py
     python 02_experimentos.py 
 
-O comando --reiniciar substitui as métricas antigas. Nesta entrega,
-os resultados antigos não são empacotados. Para retomar uma execução
-interrompida, executar 02_experimentos.py sem --reiniciar.
 
 Se precisar obter o protocolo 1K-A novamente, o script
 01_preparar_dados.py baixa as anotações textuais e separa os 9.000
