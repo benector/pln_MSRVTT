@@ -1,0 +1,18 @@
+{
+  "modelo_selecionado": "BackoffAbsoluto",
+  "n": 3,
+  "normalizacao": "lower",
+  "criterio_selecao": "menor perplexidade na validacao",
+  "limiar_validacao": -5.5193543775924185,
+  "acuracia_teste": 0.92625,
+  "precisao_teste": 0.9671232876712329,
+  "recall_teste": 0.8825,
+  "f1_teste": 0.9228758169934641,
+  "matriz_confusao": {
+    "tn": 388,
+    "fp": 12,
+    "fn": 47,
+    "tp": 353
+  },
+  "n_pares": 400
+}

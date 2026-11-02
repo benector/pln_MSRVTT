@@ -1,0 +1,11 @@
+{
+  "modelo": "BackoffAbsoluto",
+  "ordem": 3,
+  "min_freq": 2,
+  "n_legendas_treino": 141768,
+  "tamanho_vocabulario": 14178,
+  "normalizacao": "lower",
+  "amostras_por_prefixo": 5,
+  "max_novos_tokens": 20,
+  "observacao": "Treino apenas uma vez na abertura; resultados append no CSV"
+}

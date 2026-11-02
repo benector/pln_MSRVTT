@@ -1,0 +1,97 @@
+2026-11-01 20:28:16 | INFO | Carregamento dos dados: 0.26s
+2026-11-01 20:28:16 | INFO | Particoes carregadas: treino=141768, validacao=24962, teste=1000 legendas
+2026-11-01 20:28:16 | INFO | Videos sem sobreposicao: treino=7650, validacao=1350, teste=1000
+2026-11-01 20:28:16 | INFO | Iniciando 13 configuracoes; cada resultado sera salvo ao terminar.
+2026-11-01 20:28:19 | INFO | Preparo lower: 2.17s; vocabulario=14178
+2026-11-01 20:28:19 | INFO | [1/13] Inicio lower n=2 Laplace
+2026-11-01 20:28:20 | INFO | [1/13] Estatisticas: 1.29s
+2026-11-01 20:28:30 | INFO | [1/13] Treinamento: 10.49s
+2026-11-01 20:28:31 | INFO | [1/13] Validacao: 0.62s; PPL=271.3180
+2026-11-01 20:28:31 | INFO | [1/13] Teste: 0.02s; PPL=266.1238
+2026-11-01 20:28:31 | INFO | [1/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 14.59s
+2026-11-01 20:28:31 | INFO | [2/13] Inicio lower n=3 Laplace
+2026-11-01 20:28:32 | INFO | [2/13] Estatisticas: 0.85s
+2026-11-01 20:28:47 | INFO | [2/13] Treinamento: 15.36s
+2026-11-01 20:28:48 | INFO | [2/13] Validacao: 1.15s; PPL=956.8658
+2026-11-01 20:28:48 | INFO | [2/13] Teste: 0.04s; PPL=964.4856
+2026-11-01 20:28:48 | INFO | [2/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 17.40s
+2026-11-01 20:28:48 | INFO | [3/13] Inicio lower n=2 WittenBell
+2026-11-01 20:28:49 | INFO | [3/13] Estatisticas: 0.76s
+2026-11-01 20:28:57 | INFO | [3/13] Treinamento: 7.67s
+2026-11-01 20:28:58 | INFO | [3/13] Validacao: 0.70s; PPL=73.7855
+2026-11-01 20:28:58 | INFO | [3/13] Teste: 0.03s; PPL=72.4094
+2026-11-01 20:28:58 | INFO | [3/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 9.15s
+2026-11-01 20:28:58 | INFO | [4/13] Inicio lower n=3 WittenBell
+2026-11-01 20:28:58 | INFO | [4/13] Estatisticas: 0.86s
+2026-11-01 20:29:14 | INFO | [4/13] Treinamento: 15.36s
+2026-11-01 20:29:16 | INFO | [4/13] Validacao: 2.23s; PPL=61.3939
+2026-11-01 20:29:16 | INFO | [4/13] Teste: 0.07s; PPL=61.9107
+2026-11-01 20:29:16 | INFO | [4/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 18.52s
+2026-11-01 20:29:16 | INFO | [5/13] Inicio lower n=2 KneserNey
+2026-11-01 20:29:17 | INFO | [5/13] Estatisticas: 0.76s
+2026-11-01 20:29:25 | INFO | [5/13] Treinamento: 7.80s
+2026-11-01 20:29:28 | INFO | [5/13] Validacao: 3.23s; PPL=79.2994
+2026-11-01 20:29:28 | INFO | [5/13] Teste: 0.09s; PPL=77.3696
+2026-11-01 20:29:28 | INFO | [5/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 11.88s
+2026-11-01 20:29:28 | INFO | [6/13] Inicio lower n=3 KneserNey
+2026-11-01 20:29:29 | INFO | [6/13] Estatisticas: 0.87s
+2026-11-01 20:29:45 | INFO | [6/13] Treinamento: 16.15s
+2026-11-01 20:29:50 | INFO | [6/13] Validacao: 5.25s; PPL=86.2983
+2026-11-01 20:29:50 | INFO | [6/13] Teste: 0.14s; PPL=87.5006
+2026-11-01 20:29:50 | INFO | [6/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 22.41s
+2026-11-01 20:29:50 | INFO | [7/13] Inicio lower n=2 InterpolacaoDescontoAbsoluto
+2026-11-01 20:29:51 | INFO | [7/13] Estatisticas: 0.76s
+2026-11-01 20:29:59 | INFO | [7/13] Treinamento: 7.74s
+2026-11-01 20:30:00 | INFO | [7/13] Validacao: 0.79s; PPL=72.7778
+2026-11-01 20:30:00 | INFO | [7/13] Teste: 0.03s; PPL=71.2679
+2026-11-01 20:30:00 | INFO | [7/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 9.32s
+2026-11-01 20:30:00 | INFO | [8/13] Inicio lower n=3 InterpolacaoDescontoAbsoluto
+2026-11-01 20:30:01 | INFO | [8/13] Estatisticas: 0.86s
+2026-11-01 20:30:17 | INFO | [8/13] Treinamento: 16.09s
+2026-11-01 20:30:19 | INFO | [8/13] Validacao: 2.07s; PPL=59.6372
+2026-11-01 20:30:19 | INFO | [8/13] Teste: 0.07s; PPL=59.9216
+2026-11-01 20:30:19 | INFO | [8/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 19.10s
+2026-11-01 20:30:19 | INFO | [9/13] Inicio lower n=2 BackoffAbsoluto
+2026-11-01 20:30:20 | INFO | [9/13] Estatisticas: 0.81s
+2026-11-01 20:30:21 | INFO | [9/13] Treinamento: 1.22s
+2026-11-01 20:30:23 | INFO | [9/13] Validacao: 1.70s; PPL=71.1306
+2026-11-01 20:30:23 | INFO | [9/13] Teste: 0.02s; PPL=69.4900
+2026-11-01 20:30:23 | INFO | [9/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 3.75s
+2026-11-01 20:30:23 | INFO | [10/13] Inicio lower n=3 BackoffAbsoluto
+2026-11-01 20:30:24 | INFO | [10/13] Estatisticas: 1.64s
+2026-11-01 20:30:27 | INFO | [10/13] Treinamento: 2.57s
+2026-11-01 20:30:29 | INFO | [10/13] Validacao: 2.57s; PPL=56.6405
+2026-11-01 20:30:29 | INFO | [10/13] Teste: 0.05s; PPL=56.8123
+2026-11-01 20:30:29 | INFO | [10/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 6.83s
+2026-11-01 20:30:29 | INFO | [11/13] Inicio lower n=2 StupidBackoff
+2026-11-01 20:30:31 | INFO | [11/13] Estatisticas: 1.87s
+2026-11-01 20:30:39 | INFO | [11/13] Treinamento: 7.82s
+2026-11-01 20:30:40 | INFO | [11/13] Validacao: 0.50s; PPL=64.7346
+2026-11-01 20:30:40 | INFO | [11/13] Teste: 0.02s; pseudo-PPL=63.4464 (nao comparavel)
+2026-11-01 20:30:40 | INFO | [11/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 10.22s
+2026-11-01 20:30:40 | INFO | [12/13] Inicio lower n=3 StupidBackoff
+2026-11-01 20:30:41 | INFO | [12/13] Estatisticas: 0.99s
+2026-11-01 20:30:56 | INFO | [12/13] Treinamento: 15.16s
+2026-11-01 20:30:58 | INFO | [12/13] Validacao: 1.84s; PPL=56.3253
+2026-11-01 20:30:58 | INFO | [12/13] Teste: 0.04s; pseudo-PPL=56.6915 (nao comparavel)
+2026-11-01 20:30:58 | INFO | [12/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 18.03s
+2026-11-01 20:31:00 | INFO | Preparo sem_pontuacao: 1.89s; vocabulario=14159
+2026-11-01 20:31:00 | INFO | [13/13] Inicio sem_pontuacao n=3 KneserNey
+2026-11-01 20:31:01 | INFO | [13/13] Estatisticas: 0.93s
+2026-11-01 20:31:16 | INFO | [13/13] Treinamento: 15.94s
+2026-11-01 20:31:22 | INFO | [13/13] Validacao: 5.73s; PPL=85.9386
+2026-11-01 20:31:22 | INFO | [13/13] Teste: 0.15s; PPL=87.0680
+2026-11-01 20:31:22 | INFO | [13/13] RESULTADO SALVO em resultados/metricas.csv | tempo total da configuracao: 24.64s
+2026-11-01 20:31:22 | INFO | Selecionado pela validacao: BackoffAbsoluto. Recriando modelo para avaliacao final.
+2026-11-01 20:31:25 | INFO | Retreinamento do selecionado: 2.70s
+2026-11-01 20:31:26 | INFO | Classificacao: 0.48s; resumo e predicoes salvos
+2026-11-01 20:31:26 | INFO | Subteste semantico: 0.06s; acuracia=0.7438
+2026-11-01 20:31:43 | INFO | Geracao: 16.92s; geracoes.csv salvo
+2026-11-01 20:31:47 | INFO | Tamanho treino 25%: 1912 videos; PPL teste 63.529
+2026-11-01 20:31:52 | INFO | Tamanho treino 50%: 3825 videos; PPL teste 60.739
+2026-11-01 20:32:00 | INFO | Tamanho treino 75%: 5738 videos; PPL teste 58.997
+2026-11-01 20:32:09 | INFO | Tamanho treino 100%: 7650 videos; PPL teste 56.812
+2026-11-01 20:32:09 | INFO | Efeito da quantidade de dados: 25.99s
+2026-11-01 20:32:09 | INFO | Graficos: 0.47s
+2026-11-01 20:32:09 | INFO | TEMPO TOTAL DOS EXPERIMENTOS: 232.84s (3.88 min)
+2026-11-01 20:32:09 | INFO | Resultados e graficos em: /home/beatriz/UFJF/mestrado/pln/MSRVTT_Codigo_NLTK_Backoff_Final/projeto_revisado/LM_MSRVTT/resultados

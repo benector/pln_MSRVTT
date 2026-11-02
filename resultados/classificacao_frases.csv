@@ -1,0 +1,801 @@
+par_id,rotulo,frase,score,predito
+0,1,a woman creating a fondant baby and flower,-5.611434599555787,0
+0,0,a fondant and flower creating baby a woman,-6.78431099731182,0
+1,1,little pet shop cat getting a bath and washed with little brush,-6.498448022776436,0
+1,0,cat shop getting with a and little bath little washed pet brush,-8.782168418756887,0
+2,1,a naked child runs through a field,-4.420014697112576,1
+2,0,child a a runs field naked through,-9.213214631725997,0
+3,1,a man is giving a review on a vehicle,-1.8018115898620615,1
+3,0,vehicle a review is giving man on a a,-6.5793951642306725,0
+4,1,the man in the video is showing a brief viewing of how the movie is starting,-4.316285213682845,1
+4,0,viewing of a the the in video brief movie how starting is man is the showing,-7.5893633347039176,0
+5,1,a man is singing and standing in the road,-2.306578084564861,1
+5,0,the a singing standing road is and man in,-7.25186394953721,0
+6,1,man in black shirt is holding a baby upside down and talking about universal studios,-3.507222880387481,1
+6,0,holding down upside black baby about a studios universal is shirt and man in talking,-7.7168353116989,0
+7,1,there is someone playing a game in a computer,-2.4620504029852253,1
+7,0,a playing a there in is computer game someone,-7.1825329158351705,0
+8,1,a man extinguishes a fire outside,-2.376687197004557,1
+8,0,a extinguishes a outside man fire,-7.057097560032795,0
+9,1,goldfish chase each other around a blue tank to music,-5.019736013739796,1
+9,0,blue tank music chase goldfish each a other to around,-7.9943704511985345,0
+10,1,a guy wearing a black shirt talks and shows a chart on the tv screen,-2.9709167622810586,1
+10,0,wearing a tv the screen chart shows and on shirt a a guy black talks,-6.701828411073389,0
+11,1,there is a man shooting other people in a corridor,-3.0402147829635595,1
+11,0,a there is people corridor in other shooting a man,-7.282651745007173,0
+12,1,it is the animation cartoon,-3.144636595376964,1
+12,0,cartoon the it animation is,-7.351255074818642,0
+13,1,while other friends too try and hitting the basket another is eager to achieve his fourth successful basket in basketball,-7.262817741229678,0
+13,0,to other basketball fourth eager successful basket while is in basket the another his hitting friends achieve and try too,-8.960669268094557,0
+14,1,a child in pink watches a white bird in an open box,-4.670604359142846,1
+14,0,pink an open box in a a bird in white watches child,-5.900387626373377,0
+15,1,a girl and a man are talking to each other,-1.9883909609524217,1
+15,0,to other are a talking and girl a each man,-6.154191412489694,0
+16,1,a man is showing off a new vehicle,-2.0833981306561054,1
+16,0,man showing a off is new a vehicle,-5.572870034256038,0
+17,1,a group of people are walking a woman is talking about their culture,-2.8950532818701644,1
+17,0,a culture of walking is are a their woman about group talking people,-7.8565610055619945,0
+18,1,people are singing on the beach,-2.2020421754674984,1
+18,0,people beach on singing are the,-7.950981533129474,0
+19,1,a young girl in a horror movie is haunted,-3.61056908746775,1
+19,0,a a young movie is girl horror haunted in,-7.6356455285229945,0
+20,1,news reporters talk about a strange sight in part of san <UNK>,-5.175997001642505,1
+20,0,of sight talk part in a news strange <UNK> san about reporters,-7.9774339520404745,0
+21,1,athletes are getting ready and start running for an event,-2.611137350474433,1
+21,0,running ready and getting start for an event are athletes,-6.955124749808093,0
+22,1,a class is being introduced to a digital reading device,-5.558841296359439,0
+22,0,is to a reading a class device being digital introduced,-8.145760200160309,0
+23,1,a man in a music video screams shut up a bunch of times,-4.441582391368033,1
+23,0,up a shut music video bunch in of a man a screams times,-7.42007762471692,0
+24,1,bill murray is covered in frosting,-4.002961292058776,1
+24,0,covered is murray in bill frosting,-8.710896599981886,0
+25,1,a man talking about the two cars he test drove,-4.776958281773572,1
+25,0,talking a two cars he the drove test about man,-7.8924688935992044,0
+26,1,someone is adding ingredients for a batter,-3.322784746961336,1
+26,0,batter a for someone is ingredients adding,-8.287364206954182,0
+27,1,a cartoon that is <UNK> on a tv screen of a fashion run way,-3.7526439598942134,1
+27,0,tv run <UNK> of on a fashion that is cartoon way screen a a,-7.6672720011285715,0
+28,1,an oriental <UNK> is dressed in a pink wig with <UNK> clothing and is carrying a stuffed animal,-4.594441612216232,1
+28,0,is <UNK> a animal <UNK> with oriental clothing wig carrying is pink stuffed dressed a an and in,-8.083069685207349,0
+29,1,someone giving demo for some game,-1.518664125035166,1
+29,0,some giving for someone demo game,-6.841444685581609,0
+30,1,a group of women are rubbing oil and milk all over a woman,-4.162020909423997,1
+30,0,rubbing women over are all and oil group a a of woman milk,-8.498269712627108,0
+31,1,a critic about wine speaks about the french wines,-6.198685037081711,0
+31,0,about wine about a wines french speaks critic the,-8.93350263848932,0
+32,1,a puppy is crawling down some stairs,-3.9221193094536955,1
+32,0,stairs a puppy is down some crawling,-7.4654615708670455,0
+33,1,a man cooks burgers and bacon on a grill,-4.388904817448652,1
+33,0,a grill and on man a cooks burgers bacon,-7.099475034729697,0
+34,1,a cheif is preparing a treat,-4.332405169626927,1
+34,0,cheif a is preparing treat a,-9.069939392114202,0
+35,1,a trailer for a film with words over the top,-3.479772226155474,1
+35,0,words over a with top for film a the trailer,-7.348856563585179,0
+36,1,a picture of the batsman is shown and he is ready for the batting and the audience are watching the show,-4.102899497919104,1
+36,0,watching the the audience and shown the show of picture are batsman he batting ready a the and is is for,-7.987682373573663,0
+37,1,a man is sitting on a chair,-1.8602200890342224,1
+37,0,a sitting chair a is man on,-7.455475470800509,0
+38,1,a person is swimming in some white water <UNK>,-3.3995059705086375,1
+38,0,white in person swimming some a is water <UNK>,-7.8029804833265555,0
+39,1,there is a wrestling match going on between two people,-2.5854186228953187,1
+39,0,people match on wrestling is between two a going there,-6.548560170347676,0
+40,1,demonstration on how to prepare something using a microwave,-3.3814207775738305,1
+40,0,how to prepare something on using a demonstration microwave,-5.0853049913973525,1
+41,1,there are two men swimming in a pond,-3.555431228987023,1
+41,0,men pond in swimming two there are a,-7.422997841204894,0
+42,1,tom jones performing live on a television show,-3.3848649743153336,1
+42,0,on television show performing tom jones a live,-6.279289453908339,0
+43,1,an anime cartoon character speaks to another character,-2.35871794838413,1
+43,0,speaks character an character to another anime cartoon,-6.263442623658922,0
+44,1,fox news presidential debate <UNK> the gop debate with donald trump and ted cruz,-4.765440622703133,1
+44,0,debate news with donald fox ted cruz presidential <UNK> debate trump gop the and,-9.145326186629056,0
+45,1,bill murray is being interviewed by david letterman while talking about bill s past roles,-3.9657150000743235,1
+45,0,about s david is while murray bill bill talking past interviewed by letterman roles being,-9.016917309162421,0
+46,1,a cartoon character falls asleep on a couch,-2.61768316335722,1
+46,0,a cartoon a falls couch on character asleep,-6.925736583770862,0
+47,1,woman talking to a man in an interview,-2.6280264712409678,1
+47,0,man a an in talking to interview woman,-6.543179104131248,0
+48,1,a young man is touching a young girls back,-3.867290433425592,1
+48,0,back touching young a is man girls a young,-8.603256310122896,0
+49,1,a computer animation using the source engine,-5.469780430474979,1
+49,0,computer the engine source using a animation,-7.047417392188228,0
+50,1,a cook prepares food items in a metal bowl,-2.9919005266860506,1
+50,0,cook metal food items prepares bowl a a in,-8.666191982620466,0
+51,1,a person is explaining something,-1.281073717678629,1
+51,0,a person explaining something is,-4.502558289449065,1
+52,1,he is playing with ball,-3.458781046551423,1
+52,0,he is ball with playing,-6.318904790927011,0
+53,1,a female nurse washes her hands and then cleans off a surface,-4.392607341398498,1
+53,0,off a her a female then hands surface and washes nurse cleans,-8.042767766481521,0
+54,1,a girl practising her boy and arrow tricks,-6.317856085212224,0
+54,0,a tricks and arrow her girl practising boy,-7.244024997166335,0
+55,1,the woman wearing the white top talks to the people in the audience,-3.618006963827504,1
+55,0,woman the talks white people the top wearing audience the the in to,-8.270771415885969,0
+56,1,the girl shows the boys her medal in this cartoon,-5.276555805505509,1
+56,0,shows cartoon in medal her the girl this the boys,-7.1941109140532715,0
+57,1,a woman is mixing <UNK> and putting an egg into it,-3.3512736834975527,1
+57,0,and a is <UNK> woman it egg into mixing putting an,-8.097423974444448,0
+58,1,a man rides a <UNK> to the top of a mountain,-2.7964599966289705,1
+58,0,mountain top a of <UNK> to a rides a the man,-6.586957790030859,0
+59,1,the band member takes a seat,-4.850594052037416,1
+59,0,seat member a band takes the,-7.876953142963395,0
+60,1,a man is talking about space project adam,-4.552753149556813,1
+60,0,a man is talking project space about adam,-5.906707087707058,0
+61,1,girl is dancing in the garden,-2.9470998752624324,1
+61,0,dancing girl garden the in is,-8.69616621671006,0
+62,1,an animated video game song,-3.363867447929922,1
+62,0,animated an song game video,-6.302721841615971,0
+63,1,two animated woman s are talking to eachother,-3.274183316221182,1
+63,0,talking eachother to animated woman two s are,-7.285917781716059,0
+64,1,a female soccer player accepts a reward while being cheered on by the crowd,-4.644831210373512,1
+64,0,the cheered accepts a while by crowd reward player on soccer female being a,-8.89268472758769,0
+65,1,a group of people are dancing in a room,-1.5493554761110822,1
+65,0,of room are in group a people a dancing,-7.8917419034359835,0
+66,1,there is no sound while the screen shows a person playing a computer game,-3.3596828010243334,1
+66,0,playing a while is a sound no the there shows screen person computer game,-7.085190468642725,0
+67,1,a small boy is crying and a car is showed,-3.494641517572909,1
+67,0,small is showed and boy is a car a crying,-6.3474406039503775,0
+68,1,hands rubbing together in the dark and band members singing and playing the guitar,-4.626479816623211,1
+68,0,in rubbing playing dark and the the and hands members singing together band guitar,-7.735053455358509,0
+69,1,a helicopter is shown flying in what seems to be a war zone in syria,-3.8892379109238235,1
+69,0,a zone to be war shown helicopter in what flying a syria seems in is,-8.112643266865696,0
+70,1,young men discuss and demonstrate a video game,-4.108008261586345,1
+70,0,men demonstrate game a and young discuss video,-7.31680704232839,0
+71,1,someone is showing a car features,-2.7005464931027743,1
+71,0,car a features someone is showing,-6.357138018188186,0
+72,1,people share their thoughts on a boxing match,-4.158917072894845,1
+72,0,thoughts their on a match boxing share people,-8.023074521104439,0
+73,1,a man and a woman are walking a dog on a beach,-2.57275159139616,1
+73,0,dog a woman on walking and are beach a man a a,-6.860382437312095,0
+74,1,a woman is making lasagna,-3.899331236746773,1
+74,0,lasagna making a is woman,-8.307883306553833,0
+75,1,race cars of different colors lined up on a dark track,-4.394489520443034,1
+75,0,of different track on race cars lined a up dark colors,-7.2675800959648065,0
+76,1,a woman giving skin care tips,-4.400010102759436,1
+76,0,woman skin giving a care tips,-6.668824036373368,0
+77,1,a woman is advertising a stroller,-1.8550327530227173,1
+77,0,a woman stroller advertising a is,-6.578182700211452,0
+78,1,a man drives a red <UNK> 500 type race car around an asphalt track,-4.993839027440032,1
+78,0,track asphalt red an drives a car type 500 a <UNK> around race man,-7.353634910170993,0
+79,1,<UNK> kids sing together on the voice,-3.4777268824238896,1
+79,0,<UNK> the voice sing on kids together,-6.136601362067082,0
+80,1,a cartoon man dances for his girl,-3.7888586363178174,1
+80,0,his a cartoon man for girl dances,-6.477171050305422,0
+81,1,the small and large needles moving fast in a clock,-5.469654497685919,1
+81,0,and the fast moving a large clock in needles small,-7.330606211881443,0
+82,1,a man is sitting and playing guitar,-1.9385349845024111,1
+82,0,playing and a guitar man is sitting,-4.709735099718202,1
+83,1,a woman is talking about movies,-1.8716643555627657,1
+83,0,a woman talking about movies is,-3.6750816975428875,1
+84,1,a woman is talking about a baby stroller,-1.5712190483738784,1
+84,0,baby talking is a stroller woman about a,-6.82685489391429,0
+85,1,the sky roads game on the computer,-5.161174442404617,1
+85,0,the the roads computer sky on game,-7.218596158548056,0
+86,1,views of two persons working on the super computer with the head phones on,-5.338924711238522,1
+86,0,head computer on with two the on the persons working of views phones super,-7.898468707875087,0
+87,1,a woman flanked by two men are with a discussion,-3.910612366434816,1
+87,0,a two woman discussion by with flanked men a are,-7.374079471944717,0
+88,1,cartoon of a squid on a bike looking up at a <UNK>,-3.8481741331782713,1
+88,0,a at cartoon bike looking on up a a <UNK> of squid,-6.584322668024087,0
+89,1,there is a man repairing a product on the table,-2.9763213872277974,1
+89,0,on product man a a is there table the repairing,-8.484819595447217,0
+90,1,there are pictures and quotes from george <UNK> <UNK> and <UNK> van <UNK> while a voice over artist talks about making mistakes,-4.890976855076865,1
+90,0,mistakes from a george and <UNK> while making voice <UNK> <UNK> pictures van talks about over are <UNK> quotes artist there and,-7.456101557154495,0
+91,1,a man is talking about his car s features while inside his car,-2.9355766874922855,1
+91,0,while car his inside his car talking features man s about a is,-7.123529582719123,0
+92,1,in an interview a person in advocating education among the <UNK>,-6.1009953333521345,0
+92,0,advocating in interview among education <UNK> in a an person the,-7.729293957137699,0
+93,1,opening of a nest a rate is coming out and searching something it eats something on a human hand,-5.345858861508708,1
+93,0,coming is human searching something rate a out nest of it opening on a a eats and hand something,-8.039286201478761,0
+94,1,a guy fixing up another car,-4.156274679408068,1
+94,0,fixing up car guy a another,-8.164367364305203,0
+95,1,a man is talking about making it <UNK> for kids to learn while scenes of a school are shown,-4.003719611547963,1
+95,0,is a for school to making it while shown are <UNK> scenes learn about talking man kids a of,-8.319619195303503,0
+96,1,some people video conferencing as they watch a movie,-4.470885067499678,1
+96,0,a as some watch video people they conferencing movie,-7.459184795252315,0
+97,1,a woman is explaining how to do something on a computer,-1.906285733919457,1
+97,0,do on woman to computer explaining a something a how is,-8.71254041324784,0
+98,1,a girl is talking about relationships,-1.8143975829479984,1
+98,0,relationships is girl about a talking,-7.007527000022278,0
+99,1,a grey haired man interviews someone else,-3.6779121129331536,1
+99,0,grey someone man else a haired interviews,-8.332529690463343,0
+100,1,two snakes are shown in containers,-4.606491768658378,1
+100,0,in snakes shown two are containers,-8.400820212956502,0
+101,1,a man is acting out a scene,-2.28656102605892,1
+101,0,scene man a is acting a out,-8.067365110021571,0
+102,1,a movie scene starring morgan freeman and men in armor running,-4.437317653959436,1
+102,0,in a freeman morgan and starring scene armor movie men running,-7.63193699848446,0
+103,1,a minecraft video game is being played,-1.9238025789805389,1
+103,0,a being is game video minecraft played,-7.7019357574267175,0
+104,1,a man is showing the interior of a car,-1.6260218174232357,1
+104,0,is man interior showing a car a of the,-7.655426897201546,0
+105,1,a hand print is outlined within the silhouette of a green dinosaur shape for a movie promotion,-7.006698891811227,0
+105,0,a within is print outlined a movie for silhouette dinosaur a promotion the shape hand green of,-8.449740050225103,0
+106,1,a vehicle with details on what comes with it by <UNK>,-5.025488493539794,1
+106,0,it by what comes vehicle on with details a with <UNK>,-6.61537135665776,0
+107,1,tennis players are involved in matches in large <UNK> in front of large crowds,-4.858742435131792,1
+107,0,crowds <UNK> matches of in large large in are involved in front tennis players,-7.244330581560387,0
+108,1,it is a vine compilation,-2.3905153629121227,1
+108,0,is a compilation vine it,-7.23021485483908,0
+109,1,two people are preparing for sports,-3.37589986718088,1
+109,0,two sports people for are preparing,-6.229910713687485,0
+110,1,a woman is showing shrimp and bunch of different other ingredients in order to cook a dish,-3.4396427259945357,1
+110,0,and shrimp woman ingredients cook a in order to other showing bunch is different dish of a,-7.181364245947574,0
+111,1,a woman with a camel,-3.26629305046103,1
+111,0,camel woman a with a,-8.587184263649593,0
+112,1,a person is cooking on stage,-2.2438231510668802,1
+112,0,is person a cooking stage on,-7.653817732575713,0
+113,1,a man loads a clip into a pistol,-4.631005721443386,1
+113,0,a into man a clip a loads pistol,-7.908428865011205,0
+114,1,a busy city street in far east is seen with people holding baskets on heads,-6.0039470770102294,0
+114,0,far is busy in seen city a people baskets east with heads holding street on,-8.478006886096228,0
+115,1,cartoon people are eating at a restaurant,-2.8551340127213742,1
+115,0,restaurant at a are people cartoon eating,-7.359196268641499,0
+116,1,someone giving demo for some game and talking about that,-1.5915650875936507,1
+116,0,some and demo for that game someone talking about giving,-6.251110067527773,0
+117,1,this is a rock band music video,-2.5541295600121456,1
+117,0,video is music band a rock this,-6.613034267499012,0
+118,1,a man is talking about opening a laptop case,-3.998518505566751,1
+118,0,a is case talking about laptop a opening man,-6.814289290349363,0
+119,1,boys and girls dancing and singing on beach,-3.1607718102304814,1
+119,0,on dancing singing girls and beach and boys,-6.865683446789022,0
+120,1,a tv shows review program hosts discuss about the performance and staying on air of star trek,-5.908827858739112,0
+120,0,the star of hosts discuss performance trek a program shows about tv staying and on review air,-7.832118115081057,0
+121,1,someone is showing some drink,-2.961660958520443,1
+121,0,showing drink someone is some,-7.171156896623291,0
+122,1,a solider gives a speech,-3.9131782227482748,1
+122,0,a gives a solider speech,-5.853879139428518,0
+123,1,video game clip showing here different charcters,-6.320902975680819,0
+123,0,clip charcters different game showing here video,-7.907059150677284,0
+124,1,a man talks about the school system,-3.28177563142841,1
+124,0,the a system school talks about man,-6.759944099576578,0
+125,1,broth is being added to a soup pot and stirred with a rubber spatula,-4.5328720295516,1
+125,0,broth spatula soup a a stirred added is being and with to pot rubber,-8.793940556256189,0
+126,1,a guy reports on complex news,-5.86611821493169,0
+126,0,complex a guy on reports news,-6.385973710557672,0
+127,1,a clip of soccer plays,-3.5369591790239387,1
+127,0,clip of a plays soccer,-4.316867881193056,1
+128,1,<UNK> putin talks on the news about the fight against terrorism,-4.962579532538924,1
+128,0,terrorism the putin on <UNK> talks fight the news against about,-8.08384168195176,0
+129,1,<UNK> good music troop delivering a program and the lady is in good spirit,-6.1826221715219125,0
+129,0,a troop good music the good program delivering and spirit <UNK> in is lady,-7.915408476066967,0
+130,1,a man talks about visiting visiting a specific place to buy some things,-5.1604454421156944,1
+130,0,place some visiting a specific about things a man talks buy visiting to,-7.320526453537402,0
+131,1,there is a guy talking to his father,-2.8251236255185774,1
+131,0,talking to there father guy his a is,-8.531922625669566,0
+132,1,a female in a space age outfit crawling and dancing on the floor,-4.535143168627107,1
+132,0,a crawling on a in female outfit space dancing the age and floor,-7.168091621037126,0
+133,1,in the kitchen the chef is interviewed by a lady and the ingredients are kept on the table,-3.0294643666056666,1
+133,0,the chef by the lady are in is a interviewed the and table ingredients on kitchen kept the,-7.266300101307088,0
+134,1,an indian man talking about <UNK> and a new type of clothing,-3.60110176303918,1
+134,0,man type new talking indian clothing an of and about <UNK> a,-8.068899096866968,0
+135,1,a man playing guitar and singing on the road side,-2.1135930204357423,1
+135,0,the and a on playing road singing man guitar side,-8.196096883972892,0
+136,1,a man talks about the publication of a nasa technical report,-5.169868780894874,1
+136,0,publication talks about nasa man of technical a the report a,-8.094530792586704,0
+137,1,a person on the computer looking at data,-4.444836445304967,1
+137,0,person a on the computer at data looking,-7.560141750671237,0
+138,1,a man gets shot in the face,-3.0272396216063284,1
+138,0,in man gets face a the shot,-6.895386981176121,0
+139,1,the articles of a shop is being shown,-4.647814312808886,1
+139,0,being shown a articles of is the shop,-6.396317296175635,0
+140,1,a group of people watching a screen,-1.967489891702369,1
+140,0,watching screen people a a of group,-9.19730111326579,0
+141,1,a man is talking and playing a video game,-1.5261312046408348,1
+141,0,playing video and talking game man is a a,-7.331059023586519,0
+142,1,a man playing video games,-1.4811205562082728,1
+142,0,playing man video a games,-7.425531286517358,0
+143,1,he drew a beautiful picture,-7.174489493641175,0
+143,0,beautiful he a picture drew,-7.451114634632845,0
+144,1,the video shows gameplay of a car racing video game,-2.5184478285991854,1
+144,0,car racing the shows a game of gameplay video video,-5.670887157322299,0
+145,1,a group of men carry a body covered in a sheet,-4.478420784646833,1
+145,0,a in men covered a group body sheet a of carry,-8.336215130166202,0
+146,1,a man jumps onto a ledge of a building,-3.4682698980402122,1
+146,0,building of a man a jumps a onto ledge,-7.022409736097373,0
+147,1,a video of a young man in a white shirt inviting his <UNK> to join him,-3.6361823752051294,1
+147,0,inviting <UNK> of a a to him man shirt a join video white in his young,-7.893476058338263,0
+148,1,a football video game is being played,-1.9029932407967634,1
+148,0,game being football video played a is,-8.083793400152157,0
+149,1,a person explaining a concept in a show,-2.1655250217581097,1
+149,0,concept explaining person show in a a a,-8.032192302060063,0
+150,1,a soccer team walking out on the field,-3.479178288905811,1
+150,0,walking on the field out team a soccer,-5.718603786721349,0
+151,1,will smith has starred in a lot of movies including the movie ali,-5.6015765680891985,0
+151,0,will lot smith has of ali starred a movies movie the including in,-8.835698987301177,0
+152,1,a narrator explains where to find a rare vehicle in grand theft auto,-3.2933672300776284,1
+152,0,a to find explains rare grand in a where vehicle auto theft narrator,-8.862798552934132,0
+153,1,a video game car is driving recklessly,-2.8210888418377658,1
+153,0,is recklessly video game a driving car,-6.414740964112391,0
+154,1,a girl singing a song and her group were playing music,-3.9494889364402304,1
+154,0,girl group her playing a a were singing and song music,-6.683311171386074,0
+155,1,a boy gets out of a play police car and talks to a girl,-3.4544875414116523,1
+155,0,a police out and talks girl of a car gets a to boy play,-5.9164835836094065,0
+156,1,a video on how to make knots for fishing,-4.825943338402274,1
+156,0,to on video a how for fishing make knots,-8.83361361484928,0
+157,1,a car goes racing down the road,-2.236656087234855,1
+157,0,road racing the car down a goes,-6.86447080240095,0
+158,1,a person is playing a violin,-1.7436930277351748,1
+158,0,a violin playing is a person,-5.880655351188383,0
+159,1,a man and a woman are talking about something,-1.7540713849595193,1
+159,0,talking are and a a something about woman man,-7.69548719322043,0
+160,1,there is a woman in her <UNK> is a net idol show her new vedio,-5.333181740269389,1
+160,0,a new is woman idol <UNK> is vedio net her her show in a there,-7.562197883477452,0
+161,1,people are <UNK> by military in the street,-3.8613264566482,1
+161,0,the <UNK> by are military in street people,-6.215861960160283,0
+162,1,a <UNK> shows what she bought for her dog including shampoo and conditioner made by martha <UNK>,-6.628782034183621,0
+162,0,martha what <UNK> her conditioner for dog a <UNK> including made and she bought shows shampoo by,-7.763154477231469,0
+163,1,it is about a cartoon film,-2.683670216780335,1
+163,0,it film is cartoon a about,-8.615011566011052,0
+164,1,a person pointing to food on a plate,-3.5356526542595184,1
+164,0,to plate on a food person pointing a,-7.085461988271506,0
+165,1,two boys introducing a young lady who plays the cups and sings,-5.064959181189854,1
+165,0,lady introducing the who a sings two and plays cups young boys,-7.388043879971306,0
+166,1,a man is trying some sushi,-4.109535786635427,1
+166,0,a sushi trying some man is,-6.735373283787597,0
+167,1,person straightening out string of magnets and wrapping them around his finger,-6.9416802801642,0
+167,0,around of out finger string them his and wrapping person straightening magnets,-9.12663428449373,0
+168,1,playing with toy kitchen accessories,-5.383270375756226,1
+168,0,with accessories toy kitchen playing,-7.9800541778612315,0
+169,1,article about nasa s <UNK> space center being broadcasted on news,-6.359173572259395,0
+169,0,on broadcasted space s <UNK> nasa news about being article center,-7.949518019837527,0
+170,1,a man is talking about appliances,-2.944704866105836,1
+170,0,about man a is talking appliances,-8.328984348991442,0
+171,1,a person juggling sticks on the summit of a snowy mountain,-4.8091988571261215,1
+171,0,on sticks person mountain a snowy summit of juggling the a,-8.695573345360303,0
+172,1,in a kitchen a woman is chopping tomatoes in a food processor,-3.711988899533668,1
+172,0,woman in in tomatoes is kitchen processor a food a chopping a,-7.880116318169605,0
+173,1,a man explain why he uses <UNK> <UNK> for gifts,-5.062360237295519,1
+173,0,why a uses explain <UNK> <UNK> he gifts for man,-7.393095723113791,0
+174,1,a man checks out detail on a car,-4.362731424082636,1
+174,0,car detail a on checks man a out,-8.769229350551335,0
+175,1,the queen of england is seen walking with an entourage including a few islamic women a woman narrates how the queen created an outfit similar to the women in islam,-5.786535373132885,0
+175,0,to england islamic walking a an the the entourage an woman few the queen with is narrates including created outfit how women a women in seen of queen islam similar,-8.692970034971088,0
+176,1,a very young baby is wearing a <UNK> and laughing,-3.235161129191093,1
+176,0,baby very <UNK> is and young a wearing laughing a,-7.817377962064029,0
+177,1,a woman in black puts on blush while looking in a mirror,-3.9666226898819974,1
+177,0,a on black in woman puts blush mirror a looking in while,-8.392036102677018,0
+178,1,a girl in white night wear dancing very sexy,-5.683364481978542,0
+178,0,girl night wear very dancing white a in sexy,-8.400104038437032,0
+179,1,minecraft zombie kills player and takes heart,-7.171104639496275,0
+179,0,kills heart player minecraft zombie takes and,-9.383899396162601,0
+180,1,a man speaking in a microphone,-2.7125065286406866,1
+180,0,a speaking microphone man a in,-7.9067940632954175,0
+181,1,men are being filmed in the darkness,-3.4032374607924973,1
+181,0,are men in darkness the filmed being,-8.381616836887927,0
+182,1,a girl explains about some studies showing some hands actions,-5.379084397379468,1
+182,0,some showing hands explains about some a actions girl studies,-7.595296895413478,0
+183,1,people are on stage talking,-2.8633308566609963,1
+183,0,are stage talking people on,-7.541507627914398,0
+184,1,a girl wearing red top and black trouser is putting a sweater on a dog,-4.559023332827285,1
+184,0,trouser a a putting red on is girl wearing black sweater a top and dog,-7.026958791174388,0
+185,1,a woman speaking about <UNK> and fantasy disasters,-4.689596280481678,1
+185,0,about disasters woman and a speaking <UNK> fantasy,-7.407661778344415,0
+186,1,lyrics are written for the song,-3.191564297106004,1
+186,0,song the lyrics for written are,-7.710261234525889,0
+187,1,a princess tries not to cry in front of <UNK>,-4.775572486260867,1
+187,0,not front in cry to a of princess <UNK> tries,-8.402159436490287,0
+188,1,woman playing instruments in a field for a music video,-3.1312860486163676,1
+188,0,woman in music a field a playing for instruments video,-7.031289502894402,0
+189,1,two men in a wrestling competition,-2.305171166945615,1
+189,0,men competition wrestling in a two,-6.380359893854689,0
+190,1,a man showing his finished product of a wood floor in his home,-3.6552467892030656,1
+190,0,a in product of man his showing wood his home finished floor a,-8.291956631650226,0
+191,1,a man getting interviewed by a beach,-2.6938428591766512,1
+191,0,man a a by beach getting interviewed,-7.03871334585227,0
+192,1,an emotional scene of two persons where they are crying on meeting,-4.927619992835678,1
+192,0,emotional of persons are meeting on where they an two scene crying,-7.289933075040813,0
+193,1,a woman is giving a demonstration about pancake presentation,-4.025568843578129,1
+193,0,demonstration a presentation giving is pancake about woman a,-8.406000490055984,0
+194,1,a dark skinned couple make love in bed the man is on top and the woman s blouse is <UNK> transparent,-5.352027058827769,1
+194,0,man is make s transparent is <UNK> dark top couple love the blouse woman in a on the bed skinned and,-7.362494801015387,0
+195,1,a group of friends are in a room talking with each other,-2.2968620515822145,1
+195,0,a with each talking friends group in room are a other of,-7.5017411642512615,0
+196,1,water is being filtered in a tank with rocks,-5.655383239138563,0
+196,0,tank in with filtered a rocks being water is,-8.204056103209776,0
+197,1,a man and a woman are singing a song in a stage,-1.9018837092823315,1
+197,0,in and song singing a are a stage a man woman a,-7.376731077895008,0
+198,1,a man drives while discussing his car,-3.0956786192278094,1
+198,0,man his drives a discussing while car,-7.069136673353351,0
+199,1,a person is singing in a studio,-2.137140913789046,1
+199,0,in studio a singing is person a,-7.672757441476548,0
+200,1,people compete in a backyard competition,-4.633634728323039,1
+200,0,competition in people a backyard compete,-8.618825133513855,0
+201,1,the olympics <UNK> lifting photo is illustrated to explain <UNK> force,-7.285750756464796,0
+201,0,photo <UNK> force <UNK> to illustrated lifting the olympics is explain,-7.755438624263128,0
+202,1,a female journalist wearing a purple shirt and white blazer is talking on a news show next to the image of a male in a dark suit,-3.631606244360512,1
+202,0,a on next image dark show shirt male blazer a suit to news white purple female a is the wearing of and a journalist talking a in,-7.77428540160072,0
+203,1,a man picking out a vehicle from the trailer,-4.293891208937057,1
+203,0,a trailer vehicle picking the man from a out,-6.31239263380253,0
+204,1,a man is riding on horseback,-1.9491671971485827,1
+204,0,man horseback a is riding on,-6.686716107629536,0
+205,1,an orange sports car accelerates quickly,-4.480501266603832,1
+205,0,car orange accelerates an quickly sports,-8.659967469775271,0
+206,1,cartoons are talking to each otehr,-2.4752552787832918,1
+206,0,each to are otehr cartoons talking,-8.607758100836927,0
+207,1,a man walks between two brick buildings a dusk,-6.260348953632168,0
+207,0,a dusk brick two between man walks buildings a,-8.441276806733544,0
+208,1,there is a vehicle riding dangerously through forest,-6.040588858895539,0
+208,0,forest riding a through there vehicle dangerously is,-8.67323425774185,0
+209,1,three woman doing a fashion show to music,-3.770464784105892,1
+209,0,music woman a to show three doing fashion,-8.018148802006003,0
+210,1,an <UNK> woman asks a child what she is good at,-4.82574008813457,1
+210,0,at <UNK> an is good asks child woman what she a,-7.515367532599167,0
+211,1,a group of people are riding on a raft in a body of water,-2.189850981760823,1
+211,0,a riding people water raft body of of group a a are on in,-8.577238994087532,0
+212,1,man and woman are showing affection,-3.9688508324951886,1
+212,0,woman showing are affection and man,-6.059643925733459,0
+213,1,a woman talks about a skin care treatment she takes with her <UNK>,-4.792209187559858,1
+213,0,woman a <UNK> with about her she treatment talks a takes care skin,-7.106297059520014,0
+214,1,couples describing the logic behind movie scenes,-6.99811190280097,0
+214,0,couples describing scenes movie logic the behind,-8.487856848916394,0
+215,1,a man looks up towards a <UNK> organ pipes and talks to a priest in a confessional,-5.071569916047839,1
+215,0,in towards a priest a and a man talks <UNK> pipes confessional looks to a up organ,-7.381283435455668,0
+216,1,a girl using her smartphone,-4.506770095972749,1
+216,0,smartphone using a girl her,-6.549923473234762,0
+217,1,one of two guys walking on a carton of eggs with bare feet,-4.729349859155285,1
+217,0,guys walking of a one with eggs on feet bare two carton of,-7.778212934454302,0
+218,1,this is a jigsaw puzzle video,-3.7990606210354025,1
+218,0,puzzle this jigsaw a is video,-8.914024889588008,0
+219,1,a man is stirring something in a pot,-2.488967960120841,1
+219,0,is something a stirring in a pot man,-6.834254367360476,0
+220,1,two women are walking in a parking lot,-2.0598237104459214,1
+220,0,are lot parking two women in walking a,-8.132207473595017,0
+221,1,a man with head band is demonstrating how to play ping pong,-3.061466975428727,1
+221,0,with is head man a band ping play pong to how demonstrating,-8.765471409101057,0
+222,1,cartoon cars smiling talking and driving down a city road,-4.726105857126473,1
+222,0,smiling talking cartoon down city and cars driving road a,-8.04393696951438,0
+223,1,a man with a very red nose,-4.260088166797909,1
+223,0,with nose a man red a very,-6.4602541176931245,0
+224,1,a man playing video games,-1.4811205562082728,1
+224,0,games a video playing man,-6.8560153463605324,0
+225,1,a man plays an online multiplayer game and talks about how the game works,-4.184112921819576,1
+225,0,game game and a plays works how about an the man online talks multiplayer,-7.9076574710352885,0
+226,1,a lady describes about workout and exercises for women,-5.368174170990991,1
+226,0,lady a about for exercises workout and women describes,-8.092453922768195,0
+227,1,young people sit around the edges of a room clapping and raising their arms while others dance in the center during a party,-4.65547440378722,1
+227,0,clapping others during a their edges in around while raising dance the center and a party arms of room the people sit young,-7.811917344063847,0
+228,1,a woman is singing and pouring drinks,-3.890123736435966,1
+228,0,drinks is and singing woman a pouring,-8.429656728862764,0
+229,1,a woman swings her hair in front of a large sing on a brick wall,-3.5192713791855854,1
+229,0,hair front wall a sing woman brick a on a swings large in her of,-8.601444905576823,0
+230,1,different women in colorful clothing are walking down a runway for a fashion show,-2.656730719586589,1
+230,0,for are walking a runway a different fashion in colorful show clothing women down,-6.6445466252760275,0
+231,1,fox newscasters discuss chris christie and his poll numbers,-9.174430677821613,0
+231,0,fox discuss poll christie chris his newscasters numbers and,-10.474738307359065,0
+232,1,colored lights and pictures of people fade in and out of view,-3.953277789800064,1
+232,0,people pictures of and of and out view fade lights colored in,-8.300611428925558,0
+233,1,a child is singing on stage,-1.7849432405005106,1
+233,0,stage a child on singing is,-7.759241897981091,0
+234,1,a cartoon man in sunglasses waves at the crowd and smiles,-4.254679560826186,1
+234,0,the smiles a and in crowd waves sunglasses man at cartoon,-7.839588733875975,0
+235,1,a chef stirs up some ingredients inside of a pan,-3.4706400367054213,1
+235,0,of ingredients chef pan inside some stirs up a a,-8.339016836153577,0
+236,1,this is a scene from a disney cartoon set in ancient times,-3.2589005667231232,1
+236,0,disney times a ancient cartoon scene this a is in from set,-8.131694201993392,0
+237,1,two women rare sitting speaking on sites in los <UNK>,-6.334116112477492,0
+237,0,<UNK> women los in on two speaking sites sitting rare,-8.511972678080767,0
+238,1,a man speaks on driving and a car model,-4.081179769799869,1
+238,0,a speaks on a and driving man model car,-6.15688827799029,0
+239,1,a man is giving his commentary on a current event television show,-2.8755507820040185,1
+239,0,a man show giving a television current commentary his event on is,-6.912537968520007,0
+240,1,this is a video of a live tv show,-2.036154377085592,1
+240,0,of is a video show live a this tv,-6.096219688226405,0
+241,1,someone speaking about a violent act regarding the police,-5.8697255278949445,0
+241,0,a police regarding speaking violent act about the someone,-7.164728145526048,0
+242,1,a group of women are singing,-1.9414215369518963,1
+242,0,a singing of group women are,-6.860076953382019,0
+243,1,a figure in camouflage clothing walks with bent knees through large cement rooms toward a door as people are being shot,-6.155728594433117,0
+243,0,through shot cement are door toward knees a large people rooms in as walks being a with camouflage figure bent clothing,-9.154247027335405,0
+244,1,a person is discussing a car,-1.7733926896026433,1
+244,0,a person car discussing is a,-6.045153303986943,0
+245,1,a video gamer is seen as he plays a video game,-2.7961430318034233,1
+245,0,video he a is a video seen game plays gamer as,-7.549440666184039,0
+246,1,a 3 d animation of a cabinet with plates,-3.5332315525849616,1
+246,0,a animation with cabinet a d 3 plates of,-7.41881291040954,0
+247,1,a golf player is trying to hit the ball into the pit,-2.8943414013482047,1
+247,0,into hit golf is the a player trying ball pit the to,-8.180072797759596,0
+248,1,three soccer balls are laying in a field and then three men in black athletic cloths attempt to shoot a goal,-4.584303696837229,1
+248,0,and a three shoot attempt in in cloths to are black goal three field athletic men balls a soccer then laying,-8.612884004070084,0
+249,1,a man giving information about the <UNK> game,-2.6851991114979032,1
+249,0,game <UNK> giving man about the a information,-6.504362188022563,0
+250,1,a girl talking to her dead mom,-2.655599931337267,1
+250,0,dead girl her talking to mom a,-8.18238731049728,0
+251,1,long legged woman with black clothes is walking on the scene,-3.2321884192332306,1
+251,0,scene on walking black is clothes with the long woman legged,-7.6412007523739005,0
+252,1,a song with skeletons dancing,-5.595237133486294,0
+252,0,skeletons a song dancing with,-6.623295400336043,0
+253,1,various sports clips with music are shown,-3.9281319909785206,1
+253,0,with are clips sports music various shown,-7.545171306464803,0
+254,1,two guys are wrestling in a competition,-2.193243049161694,1
+254,0,a are in two competition wrestling guys,-7.509325092883348,0
+255,1,a compilation of vine videos is shown,-3.1291598518013406,1
+255,0,videos shown vine a of is compilation,-8.616144968264075,0
+256,1,a guy with glasses is standing next to some signs,-3.308379602322909,1
+256,0,next some a to is glasses with standing guy signs,-9.297501076784208,0
+257,1,three kids are performing a song,-2.349546677741672,1
+257,0,song performing a three kids are,-6.418002440034809,0
+258,1,screen cast of mine craft <UNK>,-4.08218223219008,1
+258,0,cast screen craft of mine <UNK>,-7.443311659537607,0
+259,1,flight is shaken and the pilots trying to land the flight while they opened the air,-6.89890169779025,0
+259,0,opened is air land the flight to trying shaken and the the they pilots while flight,-8.624768781839279,0
+260,1,a famous tv talk show,-2.8586048730143787,1
+260,0,tv talk show famous a,-6.192574449794097,0
+261,1,a documentary on how to <UNK> and in particular recover from a <UNK>,-5.018189247863679,1
+261,0,documentary from particular recover <UNK> on in a and to a how <UNK>,-7.378126070102867,0
+262,1,boy playing with a dump truck,-3.538365120155853,1
+262,0,a dump boy playing truck with,-6.757920314179761,0
+263,1,a man is swimming in the swimming pool,-1.9892878559061193,1
+263,0,the a in swimming swimming man is pool,-7.12707528307839,0
+264,1,dogs and cats playing in a park,-3.0677066990367403,1
+264,0,playing in dogs and park cats a,-8.103309511233748,0
+265,1,a guy chops up garlic and pours it over chicken frying in a pan,-4.315906414409059,1
+265,0,up a a frying guy garlic over in pours and chicken pan chops it,-8.173780408455512,0
+266,1,a guy talks about how a car s alternator wasn t working,-2.4580400291625493,1
+266,0,about car talks t wasn a how guy a working s alternator,-8.711363823303458,0
+267,1,many ladies and men are walking upstairs inside of a caged fence,-5.466248578058681,1
+267,0,fence upstairs many men are a caged ladies inside of walking and,-7.957434152833216,0
+268,1,an asian woman is talking about food,-2.1289669740839265,1
+268,0,about talking woman asian is an food,-7.519479527602715,0
+269,1,sitting and <UNK> 2 lady and 2 gents,-7.424751982670127,0
+269,0,and and <UNK> 2 2 sitting lady gents,-8.335996847722178,0
+270,1,a girl is preparing potato ball and explains the recipe,-4.548578490236592,1
+270,0,is explains preparing ball girl recipe the potato and a,-8.336798690545159,0
+271,1,people are walking down a street holding signs,-3.4494875249026373,1
+271,0,walking are down holding a people signs street,-8.169050539970906,0
+272,1,a man gives a lecture with a microphone in front of a laptop with a red glow behind him,-3.3931081875494398,1
+272,0,him lecture glow a in microphone a behind red a a of a gives laptop with with front man,-8.7891795856594,0
+273,1,someone is putting a skeleton slide on a projector,-5.304335189983622,1
+273,0,projector someone putting on a skeleton a is slide,-7.072348755577297,0
+274,1,this is about a young boy s photo shoot,-3.6626957748781477,1
+274,0,photo is s boy young a about shoot this,-8.335476484608597,0
+275,1,a young girl is <UNK> a young man,-2.6780864195842007,1
+275,0,<UNK> a a young girl man young is,-6.27835938188174,0
+276,1,a man and woman looking at each other on the subway,-2.612102523323076,1
+276,0,at woman and looking other on subway the each a man,-7.214620555711889,0
+277,1,a man is talking about business,-2.2366424890255567,1
+277,0,man is business a about talking,-6.23264786864772,0
+278,1,a man in striped collared shirt discusses jobs in news room of bloomberg,-5.705847918229056,0
+278,0,of news shirt bloomberg in collared man a room in striped jobs discusses,-8.523565322212981,0
+279,1,two cartoon characters walking underwater,-4.917820642885133,1
+279,0,walking cartoon two characters underwater,-7.484691772089547,0
+280,1,a girl with a hat on and dancing,-3.437811289076802,1
+280,0,a dancing and a girl hat on with,-4.860714468891239,1
+281,1,a person walks down a staircase surrounded by greenery and other foliage,-4.748009125278634,1
+281,0,by person staircase other foliage down a surrounded walks and greenery a,-9.086149569548166,0
+282,1,a guy is talking over loud music at the end of a youtube video,-3.3018640410147335,1
+282,0,a video a end at guy talking over is of music loud the youtube,-7.053574827048896,0
+283,1,this is a vine sports compilation,-2.385284720701358,1
+283,0,compilation sports this vine is a,-8.462455903808378,0
+284,1,a woman discusses how we can help children in a classroom,-3.27298734642623,1
+284,0,we a classroom can children woman how discusses a in help,-7.683560859879296,0
+285,1,bbc talking to guys with very expensive red sports car,-5.136891206215979,1
+285,0,guys to expensive bbc car sports with talking very red,-8.339598024688943,0
+286,1,a person chops up lettuce and a strainer of kidney beans is shown,-5.394966356744848,1
+286,0,chops shown strainer of and lettuce a up person a is kidney beans,-8.605833291118595,0
+287,1,a red haired woman holds a green parrot near shelves filled with bird food,-5.022242666801374,1
+287,0,haired filled green with parrot near bird red shelves woman a holds a food,-8.35746007691387,0
+288,1,a guy talks outside in the snow at a ski resort,-3.624681885067435,1
+288,0,a at guy ski talks resort outside snow in the a,-8.221781426403908,0
+289,1,person is talking about the big growth in the cities,-4.496966179497343,1
+289,0,the is growth talking about big person cities in the,-6.742925823904442,0
+290,1,a salad in a bowl is being filmed on a table,-3.081451936715144,1
+290,0,bowl a filmed in on salad table a a being is,-9.05583530640174,0
+291,1,a man talks about dna force,-4.125299149110066,1
+291,0,force a about dna man talks,-7.237459875090612,0
+292,1,a baby playing with a cats tail,-3.3020484475489007,1
+292,0,a cats playing tail baby a with,-7.898720573052849,0
+293,1,a woman holding a ribbon,-3.37316127958943,1
+293,0,a woman ribbon a holding,-5.683711140463367,0
+294,1,a man looks at the battery of a computer,-3.343984422759154,1
+294,0,a at of the man computer battery looks a,-7.0590549524185775,0
+295,1,a woman is making a recipe in a sauce pan,-2.3663860510011414,1
+295,0,pan woman making in recipe a a a sauce is,-8.05385899871709,0
+296,1,peter is driving in the car,-3.893321672637911,1
+296,0,the in driving peter car is,-7.912898890057606,0
+297,1,a man describing how to do something in windows,-3.2675039526204066,1
+297,0,do man something windows describing in to how a,-8.735631348241888,0
+298,1,a flower and other natural scenes are displaying,-4.702081713010022,1
+298,0,flower and scenes other natural are a displaying,-7.950958153886893,0
+299,1,a man in sunglasses and a blue shirt beat boxes,-3.1784107987322914,1
+299,0,a in blue man sunglasses shirt a boxes and beat,-7.3330809189301585,0
+300,1,shania twain does a closeup for her video,-5.628158466802685,0
+300,0,shania a for video closeup her twain does,-9.532717573417797,0
+301,1,a character is jumping and floating in the air in a video game,-2.8594759726646086,1
+301,0,air a jumping is in a and the video floating character in game,-7.427560840026108,0
+302,1,a man and woman stand together and cook in the kitchen,-2.795647027895398,1
+302,0,in and the together stand cook woman and man a kitchen,-6.113724847024805,0
+303,1,the man sitting in the black chair and wearing brown suit is talking,-2.9586631954038816,1
+303,0,suit talking in brown wearing the the black chair and man sitting is,-5.679670191376166,0
+304,1,a news program with a woman interviewing a man about <UNK> market <UNK>,-3.852087529452905,1
+304,0,interviewing <UNK> with man <UNK> program woman news a a a about market,-7.543712758198893,0
+305,1,a man is running around and playing a guitar,-2.1483380012064037,1
+305,0,is playing and guitar a man around running a,-6.970638075649539,0
+306,1,a band of singers and guitarists are performing on stage,-4.106571226487508,1
+306,0,band a performing on of and guitarists are singers stage,-7.4873688369914255,0
+307,1,a pirate man tries to lift a lantern with his sword while on a boat,-4.634117095762512,1
+307,0,to his a man sword lantern tries boat a lift with pirate a while on,-7.999879064042667,0
+308,1,a machine drills holes in a section of metal piping,-6.66856472894813,0
+308,0,metal drills of machine piping holes section in a a,-9.32568263229206,0
+309,1,the couples are kissing in the game of throne,-4.358744472004345,1
+309,0,throne couples of the kissing in the are game,-7.0352810916187085,0
+310,1,man driving in a car an talking about the car,-3.502581081277605,1
+310,0,man car talking an car about in the driving a,-7.398980944055132,0
+311,1,a news anchor is interviewing a person on screen,-2.756581747224385,1
+311,0,interviewing is news anchor on person a screen a,-7.78476001772855,0
+312,1,a foul mouthed chef demonstrates and describes a vegetable recipe,-3.0067096371948865,1
+312,0,describes and a recipe chef vegetable a mouthed foul demonstrates,-8.442653299541833,0
+313,1,two child playing in the house,-3.803826651674378,1
+313,0,playing in child the house two,-7.807961029358926,0
+314,1,a man shows how a video game works,-3.0155616343678644,1
+314,0,a works man shows a how game video,-6.142532020543396,0
+315,1,a woman is ripping off a man clothes,-5.4063138433039875,1
+315,0,a ripping is man clothes off a woman,-6.460747030455661,0
+316,1,a young boy rocks out on a guitar,-3.4053600757995905,1
+316,0,rocks a a out on guitar young boy,-7.580007509304488,0
+317,1,a team with blue uniforms are playing badmitten with a team in white,-4.724793805946628,1
+317,0,with white are badmitten in a blue a team uniforms playing with team,-6.330882541819138,0
+318,1,people talking about a fight,-3.3344586920729657,1
+318,0,about people a talking fight,-7.987016598224169,0
+319,1,lego <UNK> are in a facility,-5.279188827544783,1
+319,0,in a facility lego are <UNK>,-6.213466880016149,0
+320,1,a girl talks about photos and her life,-3.985715153953068,1
+320,0,photos a girl and about talks life her,-7.303394538585197,0
+321,1,a woman jumps over a bar and attacks a man,-3.4838896370070036,1
+321,0,a a man and woman jumps attacks over bar a,-6.480626005553305,0
+322,1,a video showing footage from sporting events,-2.8336015283162803,1
+322,0,a showing from video footage events sporting,-7.707397394014821,0
+323,1,a group of people are singing while holding coke in their hands,-3.51917231981251,1
+323,0,holding in of a coke their hands people group singing while are,-6.734958446306115,0
+324,1,a dog and a cat are in a <UNK>,-2.757494563161151,1
+324,0,cat dog are <UNK> a and in a a,-7.0655436941235426,0
+325,1,the intro to world news focus on africa plays and we are greeted by the bbc reporter based in <UNK> south africa,-5.75008861917957,0
+325,0,the we world focus to the reporter based bbc are <UNK> in intro on greeted by africa plays africa and south news,-8.001581295608489,0
+326,1,the <UNK> credit to <UNK> <UNK> <UNK> cooking,-5.303854686824706,1
+326,0,to <UNK> credit the <UNK> cooking <UNK> <UNK>,-6.158289997096378,0
+327,1,a video game is played,-1.6764339323073576,1
+327,0,video played a is game,-7.737606818220553,0
+328,1,a goat attacks a man and the man fights back,-4.000658308633213,1
+328,0,a attacks man back the and fights a man goat,-7.03785371797311,0
+329,1,george lopez s family sits down for dinner,-4.772930910909752,1
+329,0,s george dinner lopez sits down family for,-9.6344315408137,0
+330,1,a guy is spinning around with a bat,-3.0494961174993302,1
+330,0,guy with around a spinning is a bat,-4.982421035583288,1
+331,1,fried potatoes are being eaten,-5.923718211129685,0
+331,0,fried being potatoes eaten are,-9.430623118931367,0
+332,1,a women preparing a duck to roast,-5.516035959001874,1
+332,0,a preparing to a duck women roast,-6.556995268801738,0
+333,1,comedy skit with dc comics character <UNK>,-5.363356468916639,1
+333,0,comics skit <UNK> with character dc comedy,-9.403520078734509,0
+334,1,guys holding cups and talking,-4.488933703566023,1
+334,0,cups holding and talking guys,-7.264338725965744,0
+335,1,a woman on a couch talks to a a man,-3.112106428591053,1
+335,0,a a a talks to man couch a on woman,-7.460827524386793,0
+336,1,an astronaut is looking at a flag,-3.4703828752999017,1
+336,0,is at an a flag astronaut looking,-8.117964323823259,0
+337,1,man driving a car in a video game,-2.0650376266605828,1
+337,0,game a car driving in a man video,-5.481766278574266,1
+338,1,a man is talking about the making of the movie avatar,-3.053962580316297,1
+338,0,man of avatar about movie the is the talking a making,-7.9181384995951545,0
+339,1,a man talking about human relationships,-3.024392362312138,1
+339,0,human a about man relationships talking,-8.500804998998396,0
+340,1,a pop singer singing while she standing on a step the video is shown double,-4.4855534112746405,1
+340,0,singing step pop is singer a double video standing she shown a on the while,-8.343965933877811,0
+341,1,a girl sitting in a restaurant,-2.4406091423105623,1
+341,0,girl in a a sitting restaurant,-6.121629312717524,0
+342,1,a web animation of a businessman,-5.053023882869685,1
+342,0,businessman a of web a animation,-8.232876152040658,0
+343,1,a man playing a video game,-1.3262146919279798,1
+343,0,a a video game playing man,-4.638715208380276,1
+344,1,a man in his backyard talks tot he camera and is going to skin a snake,-5.223488024338149,1
+344,0,talks is a camera his man backyard to he snake going tot a in and skin,-8.512537388116572,0
+345,1,several groups of people are <UNK> on a waterway,-3.978652073437515,1
+345,0,on people groups waterway of several are a <UNK>,-7.281451141000441,0
+346,1,a police officer drives his white car onto a grassy field and then back on to the street,-4.669105029818584,1
+346,0,drives and white a grassy a his police officer back the on onto field street to then car,-7.641425548907418,0
+347,1,a cartoon woman cries at a bench while a woman in blue appears,-4.565236898511853,1
+347,0,appears woman cartoon a a bench in blue while woman at a cries,-6.87213324630018,0
+348,1,people are using a computer software tool,-3.984282032826313,1
+348,0,using software tool are a people computer,-7.757561781561813,0
+349,1,a dad plays video games with his son,-3.9726764109388393,1
+349,0,games with dad his son a plays video,-6.957568358471213,0
+350,1,women of a foreign nation comb their hair and perform in traditional costumes,-6.532827593500974,0
+350,0,perform a women and costumes nation traditional their comb in foreign of hair,-7.956699844707714,0
+351,1,guy explaining what <UNK> person <UNK> is,-5.696635570769103,0
+351,0,explaining guy <UNK> <UNK> is what person,-6.6364068683469135,0
+352,1,a guest is speaking with a television show host,-3.9542978614516278,1
+352,0,host guest speaking a television show is with a,-6.741127237030318,0
+353,1,there was a <UNK> in the back,-3.3062059630633387,1
+353,0,<UNK> the back in was a there,-6.149851530204122,0
+354,1,a woman is giving demo for baby trolley,-1.3382315351745644,1
+354,0,is trolley a demo giving woman baby for,-8.8685893985977,0
+355,1,basketball players making a shot in the last seven seconds,-5.326693669048748,1
+355,0,shot players making a seven in basketball last seconds the,-8.71122811131261,0
+356,1,a man in a flying contraption crashes in a field,-4.5987314525038165,1
+356,0,a man crashes field a flying in a in contraption,-5.982045862980372,0
+357,1,a cartoon character prepares to ride a bicycle,-3.2488617194453435,1
+357,0,character cartoon bicycle prepares to a a ride,-6.969061876741794,0
+358,1,behind the scenes in a professional kitchen as the chefs work and the waiters run food can be a very noisy experience,-6.047423106420647,0
+358,0,scenes the experience noisy very in and the run behind can professional as waiters be a a chefs work the food kitchen,-8.046895420875996,0
+359,1,a man in a suit and a woman wearing brown giving the news,-2.918074757119119,1
+359,0,brown news giving and the wearing man suit in a a a woman,-6.743852702423205,0
+360,1,a middle aged woman giving another woman a message,-4.401364409873652,1
+360,0,giving woman message middle a woman a aged another,-8.231723147176567,0
+361,1,several women in pink outfits and various other styles are standing and smiling,-5.290630857584297,1
+361,0,and in standing are various outfits styles smiling other pink several women and,-8.295187203362392,0
+362,1,miniature donkeys walking around and making noises,-5.562954394331186,0
+362,0,donkeys and noises around miniature walking making,-9.228102707133777,0
+363,1,man in black suit is having meeting with group of people,-3.488979291714901,1
+363,0,group black of is people having man meeting suit in with,-7.772609644245652,0
+364,1,two men walk behind a couple of <UNK> one of which attacks a man,-4.057885296353863,1
+364,0,of <UNK> attacks behind one couple man two men which a of walk a,-8.22912801753918,0
+365,1,a warrior is fighting a battle,-3.3105586694852174,1
+365,0,a a is fighting warrior battle,-7.651163278001724,0
+366,1,there is a man working on a car,-2.004634562882398,1
+366,0,car working a on is a there man,-7.523042928856885,0
+367,1,a man is talking about cooking and presenting a thermometer and way of preparation,-4.386338693655591,1
+367,0,of a thermometer and way a presenting man about talking is preparation and cooking,-7.108633284287547,0
+368,1,the view of a boat and the water is blocked by clouds and fog,-4.916829860299855,1
+368,0,clouds view the the of water and and blocked is a boat by fog,-7.363059804336328,0
+369,1,batman is beating up bane in a scene from a batman movie,-4.038797908117284,1
+369,0,a from in movie beating batman bane batman scene up is a,-8.592463032236985,0
+370,1,instructional video on home improvement subjects,-5.30731248737501,1
+370,0,video instructional subjects on home improvement,-7.401159033583424,0
+371,1,guy in tshirt playing guitar and singing song,-3.176921204753899,1
+371,0,tshirt in playing guitar and guy singing song,-5.451816417804409,1
+372,1,bride standing with a old man in formal wear,-4.117507425389255,1
+372,0,in standing man with old wear formal bride a,-8.640835244261567,0
+373,1,a woman in a purple dress is talking on a video,-2.53220784413867,1
+373,0,on a purple dress a a talking in woman video is,-6.140445441389712,0
+374,1,a man is playing piano,-1.8708012919640284,1
+374,0,playing a piano is man,-5.070670364148206,1
+375,1,someone playing the game dark <UNK>,-4.152378692002212,1
+375,0,dark <UNK> someone playing game the,-6.766142965840808,0
+376,1,a man is discussing some functions for a science <UNK>,-4.032738521490187,1
+376,0,is science a a functions some discussing <UNK> for man,-7.912462200984222,0
+377,1,woman is using a baby stroller,-2.7554296281919397,1
+377,0,a baby using is stroller woman,-6.300027522553006,0
+378,1,man in white hoodie turns a page to tell you about an online store the <UNK> is available in the description,-5.754154722292803,0
+378,0,about to you the online hoodie page store man in turns in the description white tell available is an <UNK> a,-7.612848201542102,0
+379,1,blonde woman with black nails is recording herself in a room,-3.987527977018979,1
+379,0,with recording a woman nails black blonde is in room herself,-7.359833117284,0
+380,1,wrestlers are involved in a large wrestling meet,-4.446593614349265,1
+380,0,are involved in large meet wrestlers wrestling a,-8.320611521158574,0
+381,1,a man drives aroud curves through a wooden mountainside,-6.631393441360681,0
+381,0,curves through a drives aroud wooden man mountainside a,-9.21424511924686,0
+382,1,women athletes taking their positions for a running race,-5.246037780065251,1
+382,0,race running a athletes their for positions women taking,-8.595102699742139,0
+383,1,someone plays a guitar and sings on stage of a tv show,-2.5155651545746904,1
+383,0,guitar a stage of show a someone tv plays and sings on,-6.794983676693251,0
+384,1,a robot is seen in a movie preview,-3.4204714227940363,1
+384,0,a preview robot in is seen a movie,-5.762121668725351,0
+385,1,video of <UNK> practicing to roll,-5.884694939154438,0
+385,0,<UNK> roll of video practicing to,-7.396378079145253,0
+386,1,the man thought students should be given the <UNK> to learn,-5.502576746726501,1
+386,0,man be the given <UNK> thought the students learn to should,-7.103955299820266,0
+387,1,a woman pours water into her pot of meat then tomato sauce and stirs it all around while talking,-4.208122008070252,1
+387,0,woman talking it around pours then of pot sauce and all tomato her meat water while stirs a into,-8.24431805755024,0
+388,1,man pretends to be two different people,-3.3924874140151684,1
+388,0,two different to pretends man people be,-7.340892527430112,0
+389,1,a man talks about kim chi to a camera,-4.200599441915225,1
+389,0,chi a to talks about kim camera a man,-7.140029778186195,0
+390,1,a cartoon announcing the next event in a fake show,-4.851598593192539,1
+390,0,a in fake next a the event announcing cartoon show,-7.528587978065357,0
+391,1,a man dressed as a woman in a spanish language tv program,-2.3609102336853227,1
+391,0,a program man language dressed a spanish in woman tv a as,-8.148517159965282,0
+392,1,in a music video a man is laying with women while singing,-3.665558816283277,1
+392,0,man with a women is in laying while music singing a video,-5.404375320051466,1
+393,1,tourists walking around the mount <UNK> <UNK> center,-5.609762711275841,0
+393,0,center <UNK> the walking around mount tourists <UNK>,-8.00433386080023,0
+394,1,calm pond with lush green hills lining the background is shown,-6.594954017644401,0
+394,0,is lining lush calm with hills shown background pond green the,-9.52135947437547,0
+395,1,a man is playing baseball,-2.0727849034884467,1
+395,0,baseball playing is a man,-5.784165045635167,0
+396,1,there is a wrestling match,-2.157248793845737,1
+396,0,is there match wrestling a,-9.749181760122156,0
+397,1,two wrestlers are fighting on a mat,-2.2831870830270464,1
+397,0,on fighting two wrestlers mat are a,-8.377033471566175,0
+398,1,a man is filming as he and a woman watch the news where it shows an area filled with smoke,-4.4244514302043445,1
+398,0,he woman as news smoke and the an watch a it is where man area filming a with filled shows,-7.718785461294464,0
+399,1,the mountain views are from a boat on the center of a lake,-4.386717488991583,1
+399,0,views of the boat are a on a the mountain from lake center,-6.603711545985535,0

@@ -1,0 +1,16 @@
+{
+  "descricao": "Subteste adicional de frases absurdas previamente definidas",
+  "limiar": "Mesmo limiar escolhido na validacao para permutacoes",
+  "n_positivas": 160,
+  "n_negativas": 160,
+  "acuracia": 0.74375,
+  "precisao": 0.6839622641509434,
+  "revocacao": 0.90625,
+  "f1": 0.7795698924731183,
+  "matriz_confusao": {
+    "tn": 93,
+    "fp": 67,
+    "fn": 15,
+    "tp": 145
+  }
+}
